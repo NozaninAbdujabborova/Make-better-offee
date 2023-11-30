@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.flexd {
+    padding-left: 360px;
+}
+
+.flexd input {
+    border: none;
+}
+
+a:hover {
+    color: rgb(120, 120, 236);
+}
+
+.navbar-brand {
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 70px;
+}
+.navbar-brand:hover{
+    color: #2D3748;
+}
+.nav-link {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.title {
+    color: #000;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 107px;
+    padding-top: 131px;
+}
+
+.croodes {
+    padding-top: 70px;
+    padding-left: 40px;
+}
+
+.text {
+    padding-left: 107px;
+    padding-top: 20px;
+    color: #4A5568;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.rect {
+    padding-top: 113px;
+}
+
+.rect-text {
+    color: #718096;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 104px;
+    padding-left: 107px;
+}
+
+.date-text {
+    color: #718096;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 107px;
+}
+
+.date-title {
+    color: #2D3748;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.comp {
+
+    padding-left: 40px;
+}
+
+.date {
+    padding-top: 20px;
+}
+
+
+
+
+.card-title {
+    color: #2D3748;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.card-t {
+    color: #718096;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 18px;
+    padding-left: 10px;
+}
+
+
+.card-title__t {
+    color: #2D3748;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 18px;
+    padding-left: 10px;
+}
+
+
+.card-fut__text {
+    color: #718096;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.card-title {
+    color: #2D3748;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 10px;
+
+}
+
+.panel-title {
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 98px;
+    padding-left: 107px;
+}
+
+.panel-text {
+    color: #718096;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 24px;
+    padding-left: 107px;
+}
+
+.panel {
+    padding-top: 43px;
+    background: #F7FAFC;
+}
+
+.btn {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 32px;
+    border-radius: 5px;
+    background: #6B46C1;
+    margin-left: 990px;
+    padding: 9px 37px 9px 11px;
+    column-gap: 7px !important;
+}
+
+.footer-text {
+    padding-top: 28px;
+}
+.footer-text__thick {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
